@@ -18,6 +18,17 @@ Nesse desafio, você deve criar uma aplicação para treinar o que você aprende
 
 Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o backend no último desafio utilizando o Node.js.
 
+# Babel
+
+Babel: Converter (transpilar) código do React para um código que o browser entenda
+
+# Webpack
+
+Webpack: Pra cada tipo de arqiovo (.js, .css, .pg) converte o código de uma maneira diferente
+
+Loaders: babel-loader, css-loader, image-loader
+
+
 ## :mailbox_with_mail: Entrar em contato!
 
 <a href="https://www.instagram.com/williamrmendonca" target="_blank" >
